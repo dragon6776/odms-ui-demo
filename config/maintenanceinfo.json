@@ -1,0 +1,7 @@
+{
+  "START":"2017-07-28 22:00 -0800",
+  "END":"2017-07-29 02:00 -0800",
+  "REFRESHTIME": 288000000,
+  "MAINTENANCE_MSG": "Cobalt is currently shutdown for scheduled maintance between the hours of 10pm - 2am PST on July 28-29.",
+  "NOTIFY_MSG": "Cobalt Maintenance will occur on July 28th. You may experience downtime or latency between the hours of 10pm – 2am PST on July 28-29."
+}
