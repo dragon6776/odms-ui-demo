@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html ng-app="case-management" ng-controller="AppCtrl">
+<head>
+    <title ng-bind="pageTitle"></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- inject:css -->
+    <!-- endinject -->
+    <!-- inject:js -->
+    <!-- endinject -->
+
+</head>
+<body>
+
+<div style="height:0; overflow: hidden;">
+    <!-- inject:svg --><!-- endinject -->
+</div>
+
+<!-- Reenable this, once the requirements have been clarified
+<session-expiration-dialog threshold="20"></session-expiration-dialog>
+-->
+
+<div class="container-fluid" ui-view="main"></div>
+
+
+</body>
+
+
+<user-voice key="Q8IzjHUeY76sIjNe5InHQ" default-email="no_profile_email@balglobal.com" />
+<jump-seat />
+<heap-analytics />
+
+</html>
